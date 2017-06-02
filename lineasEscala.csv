@@ -1,0 +1,25 @@
+id_versionLineaEscala,id_lineaEscala,esActivo_versionLineaEscala,textoVisible,id_escala,posicion_versionLineaEscala,tipo,puedeSerNulo,id_versionEscala,lineaVisible,contenido,referencia
+1,1,true,true,1,1,9,,1,*lineavisible*,,xxx
+1,2,true,true,1,2,9,,1,*lineavisible*,,aaa
+1,3,true,false,1,3,2,,1,*lineavisible*,,bbb
+1,4,true,false,1,4,2,,1,*lineavisible*,,ccc
+1,5,true,false,1,5,1,,1,*lineavisible*,,ccc
+1,6,true,false,1,6,3,,1,*lineavisible*,,ccc
+1,7,true,false,1,7,6,,1,*lineavisible*,,ccc
+1,8,true,true,1,8,9,,1,*lineavisible*,,ccc
+1,9,true,false,1,9,2,,1,*lineavisible*,,ccc
+1,10,true,false,1,10,2,,1,*lineavisible*,,ccc
+1,11,true,false,1,11,2,,1,*lineavisible*,,ccc
+1,12,true,false,1,12,2,,1,*lineavisible*,,ccc
+1,13,true,false,1,13,2,,1,*lineavisible*,,ccc
+1,14,true,false,1,14,2,,1,*lineavisible*,,ccc
+1,15,true,false,1,15,2,,1,*lineavisible*,,ccc
+* numerico visible si no
+ee
+aa lineaVisible ambos  para tipo 1 - 4
+xxxm
+m
+id_versionLineaEscala,id_lineaEscala,esActivo_versionLineaEscala,
+textoVisible,id_escala,posicion_versionLineaEscala,
+tipo,puedeSerNulo,id_versionEscala,lineaVisible,
+contenido,referencia

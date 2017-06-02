@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="target/generated-resources/gwt">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/security/local_policy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/security/US_export_policy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/access-bridge.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/access-bridge-32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/cldrdata.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/jaccess.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/jackcess-2.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/jfxrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/nashorn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/sunec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/ucanaccess-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Puig_Castellar/Desktop/eclipse/eclipse/Bibioteca del proyecto/jre1.8.0_121/lib/ext/zipfs.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
